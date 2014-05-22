@@ -1,0 +1,14 @@
+[Oo]bj/
+[Bb]in/
+*.sln.cache
+*.suo
+*.user
+/TestResults
+*.vspscc
+*.vssscc
+*.vsmdi
+_ReSharper*/
+*.resharper
+.DS_Store
+.idea
+._.DS_Store
